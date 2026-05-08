@@ -4,7 +4,7 @@
 > 
 > Current app version: **0.1.15+15** (`pubspec.yaml`)
 > 
-> Repository: **https://github.com/viveksharma2105/stillmax**
+> Repository: **https://github.com/imShadx/stillmax**
 
 ---
 
@@ -451,7 +451,7 @@ No proprietary user data was intentionally sent to an external AI service as par
 
 ### 13.1 Repository
 - Remote: `origin`
-- URL: `https://github.com/viveksharma2105/stillmax.git`
+- URL: `https://github.com/imShadx/stillmax.git`
 - Main branch: `main`
 
 ### 13.2 Codebase size snapshot

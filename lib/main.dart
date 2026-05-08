@@ -22,6 +22,7 @@ Future<void> _logErrorToFile(String message) async {
   } catch (_) {
     // Ignore logging errors
   }
+  
 }
 
 void main() {
