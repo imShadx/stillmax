@@ -232,6 +232,8 @@ class _BlackBoxPasswordScreenState extends ConsumerState<BlackBoxPasswordScreen>
     }
   }
 
+  //this is subtitle
+
   String get _subtitle {
     switch (widget.mode) {
       case BlackBoxMode.setup:
